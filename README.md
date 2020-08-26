@@ -11,7 +11,7 @@
 
 Primeiro utilize o comando abaixo:
 
-> $ git clone https://github.com/mauriani/NLW-01-Projeto-Ecoleta
+> $ git clone https://github.com/mauriani/clone-Linkedln
 
 Depois disso acesse a pasta de cada projeto: 
 
