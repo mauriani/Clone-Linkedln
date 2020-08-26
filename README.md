@@ -1,5 +1,7 @@
 <h1>Clonando a Interface do Linkedln</h1>
 
+<img src="https://user-images.githubusercontent.com/32397288/91320485-f54e9c80-e793-11ea-8818-12a83ea08d9c.PNG">
+
 <h3>:computer: Tecnologias usadas</h3>
 <uL>
   <li>ReactJs</li>
