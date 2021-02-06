@@ -16,7 +16,7 @@ Antes de iniciar você precisar ter o ambiente configurado.
 
 ### Pré requisitos
 
-- React Native cli
+- React js
 - nodejs
 
 ```jsx
