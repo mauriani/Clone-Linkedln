@@ -2,21 +2,43 @@
 
 <img src="https://user-images.githubusercontent.com/32397288/91320485-f54e9c80-e793-11ea-8818-12a83ea08d9c.PNG">
 
-<h3>:computer: Tecnologias usadas</h3>
-<uL>
-  <li>ReactJs</li>
-</ul>
+## Sobre o projeto
 
-<h3>Instalação</h3>
+Projeto realizado utilizando rectJs, onde foi feito o clone do Linkedln.
 
-Primeiro utilize o comando abaixo:
+## 🚀 Tecnologias usadas
 
-> $ git clone https://github.com/mauriani/clone-Linkedln
+- React js
 
-Depois disso acesse a pasta de cada projeto: 
+## 💻Instalação
 
-> $ yarn install # ou npm install
+Antes de iniciar você precisar ter o ambiente configurado.
 
-Para executar os projetos:
+### Pré requisitos
 
-> $ yarn start
+- React Native cli
+- nodejs
+
+```jsx
+git clone https://github.com/mauriani/clone-Linkedln
+```
+
+Após o download do repositório em sua máquina basta realizar os seguintes comandos:
+
+```jsx
+
+// acessar a basta do projeto
+cd Clone-Netflix-Mobile
+// instalar todas as dependencias do projeto
+yarn install ou npm install
+
+```
+
+## Executando Projeto
+
+```jsx
+
+// para executa você pode usar o expo instalado no seu celular
+cd clone-Linkedln
+npx react-native run-android ou npx react-native run-ios
+```
