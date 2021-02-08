@@ -20,7 +20,7 @@ Antes de iniciar você precisar ter o ambiente configurado.
 - nodejs
 
 ```jsx
-git clone https://github.com/mauriani/clone-Linkedln
+git clone https://github.com/mauriani/Clone-Linkedln.git
 ```
 
 Após o download do repositório em sua máquina basta realizar os seguintes comandos:
